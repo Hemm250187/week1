@@ -20,10 +20,14 @@
     section {
         width: 100%;
         flex: 1;
-        .list>li {
+        .list {
             width: 100%;
             height: px2rem(40px);
             display: flex;
+        }
+        img {
+            width: 100%;
+            height: px2rem(100px);
         }
     }
 }

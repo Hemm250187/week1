@@ -210,8 +210,13 @@ html {
   flex: 1;
 }
 
-.wrap section .list > li {
+.wrap section .list {
   width: 100%;
   height: 1.06667rem;
   display: flex;
+}
+
+.wrap section img {
+  width: 100%;
+  height: 2.66667rem;
 }
