@@ -20,7 +20,7 @@
     section {
         width: 100%;
         flex: 1;
-        .list {
+        .list>li {
             width: 100%;
             height: px2rem(40px);
             display: flex;
